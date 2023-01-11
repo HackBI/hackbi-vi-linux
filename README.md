@@ -6,10 +6,10 @@ Some kind of disk management / partitioning tool.
 ## Uses
 It is an operating system that can be used for all things computer related and provides a stable coding and development environment.  
 
-## Purpose:
+## Purpose
 To learn how to install and use linux along side windows or as the sole operating system on your device as well as how to use the linux terminal.  
 
-## Goal:
+## Goal
 It is an overview of linux.  
 
 ## Challenges: 
@@ -20,7 +20,7 @@ It is an overview of linux.
 * updating all packages
 * learning terminal  
 
-## Resources/Sites Used:
+## Resources/Sites Used
 bbs.archlinux.org (the arch linux forums) 
 
 archlinuxgui.in (the website for the distro) 
